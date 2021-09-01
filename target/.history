@@ -1,0 +1,49 @@
+test
+testOnly
+test
+clean
+compile
+test
+clean
+compile
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/nm/bq3x23w922jfb6k3z8lqxmsm0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/alex/Library/Application Support/IdeaIC2017.3/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+compile
+sbt compule
+sbt compile
+publish
+clean
+compile
+clean
+compile
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/nm/bq3x23w922jfb6k3z8lqxmsm0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/alex/Library/Application Support/IdeaIC2017.3/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+compile
+clean
+compile
+clean
+compile
+clean
+compile
+clean
+compile
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/nm/bq3x23w922jfb6k3z8lqxmsm0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/alex/Library/Application Support/IdeaIC2017.3/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/nm/bq3x23w922jfb6k3z8lqxmsm0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/alex/Library/Application Support/IdeaIC2017.3/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+test
+clean
+compile
+test
+all {file:/Users/alex/Projects/prime-number-service/}prime-number-service/products {file:/Users/alex/Projects/prime-number-service/}prime-number-service/test:products
+clean
+compile
+all {file:/Users/alex/Projects/prime-number-service/}prime-number-service/products {file:/Users/alex/Projects/prime-number-service/}prime-number-service/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/nm/bq3x23w922jfb6k3z8lqxmsm0000gn/T/sbt-structure.xml; session clear-all
+testOnly PrimeNumberServiceImplTest
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/nm/bq3x23w922jfb6k3z8lqxmsm0000gn/T/sbt-structure.xml; session clear-all
+clean
+compile
+all {file:/Users/alex/Projects/prime-number-service/}prime-number-service/products {file:/Users/alex/Projects/prime-number-service/}prime-number-service/test:products
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/nm/bq3x23w922jfb6k3z8lqxmsm0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/alex/Library/Application Support/IdeaIC2017.3/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit

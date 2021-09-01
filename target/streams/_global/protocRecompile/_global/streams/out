@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0mGenerating Akka gRPC service interface for primenumberserver.grpc.PrimeNumber[0m
+[0m[[0m[0minfo[0m] [0m[0mGenerating Akka gRPC client for primenumberserver.grpc.PrimeNumber[0m
+[0m[[0m[0minfo[0m] [0m[0mGenerating Akka gRPC service handler for primenumberserver.grpc.PrimeNumber[0m
